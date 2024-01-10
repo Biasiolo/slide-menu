@@ -24,7 +24,7 @@ header {
     z-index: 1;
     transition: color 150ms ease-in-out;
     display: block;
-    margin: 100px auto;
+    margin: 60px auto;
     padding: 12px 20px;
     font-family: 'Electrolize', sans-serif;
     font-weight: 700;
