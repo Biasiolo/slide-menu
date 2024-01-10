@@ -65,7 +65,7 @@ header {
     align-items: center;
     width: 50%;
     background-color: rgba(144, 212, 252, 0.3);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(15px);
     transform: translateX(-100%);
     transition: transform 0.5s ease-in-out; /* Altere o valor conforme necessário */
     border-left: 1px solid rgba(65, 63, 63, 0.5);
