@@ -1,36 +1,34 @@
 {
     "name": "slide-menu-jquery",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Welcome to Slide Menu, a simple jQuery-based project for creating a wide color button that opens a sliding menu.",
     "main": "index.js",
-    
     "repository": {
-      "type": "git",
-      "url": "https://github.com/Biasiolo/slide-menu.git"
+        "type": "git",
+        "url": "https://github.com/Biasiolo/slide-menu.git"
     },
     "author": "Biasiolo",
     "license": "MIT",
     "keywords": [
-      "slide menu",
-      "jQuery",
-      "wide color button",
-      "sliding menu",
-      "web development",
-      "user interface",
-      "UI",
-      "UX"
+        "slide menu",
+        "jQuery",
+        "wide color button",
+        "sliding menu",
+        "web development",
+        "user interface",
+        "UI",
+        "UX"
     ],
     "homepage": "https://slide-menu-orcin.vercel.app/",
     "bugs": {
-      "url": "https://github.com/Biasiolo/slide-menu/issues"
+        "url": "https://github.com/Biasiolo/slide-menu/issues"
     },
     "engines": {
-      "node": ">=14.0.0"
+        "node": ">=14.0.0"
     },
     "dependencies": {
-      "jquery": "^3.6.4"
+        "jquery": "^3.6.4"
     },
     "devDependencies": {},
     "peerDependencies": {}
-  }
-  
+}
