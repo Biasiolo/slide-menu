@@ -1,7 +1,3 @@
-
-**UX_UI.md**
-
-```markdown
 # UX/UI Documentation for Slide Menu
 
 ## Design Choices
